@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Latest Releases[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/users/garycrawfordgc/lists/latest-releases</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Trending Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/movies/trending?limit=40&page=1</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Greatest Movies of All Time[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Greatest-Movies-of-All-Time.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Drama / Action[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Top-Drama-and-Action-Movies.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Crime / Gangster[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Crime.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>    
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Psychological / Thrillers[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Psychological-Thrillers.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Horror Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/horror.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Sci-Fi Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/scifi.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Fantasy Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/fantasy.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of Comedy[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/comedy.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Tarantino Collection[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/tarantino-greats.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of the 80's[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Best-of-the-80s-Movies.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Ambient[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/ambient.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
+</dir>
