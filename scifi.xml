@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Trending Sci-Fi[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/movies/trending/?genres=science-fiction</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of Sci-Fi[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thecrew/?action=collections&url=https://api.themoviedb.org/3/list/88441?api_key=0049795edb57568b95240bc9e61a9dfc</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Alien Invasion[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Alien-Invasion.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Futuristic / Post Apocolyptic[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Post_Apocolyptic.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Star Wars Collection[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/StarWarsCollection.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Marvel Universe[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Marvel.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+
+
+
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]DC Universe[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/dc.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+

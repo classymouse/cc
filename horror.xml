@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<plugin>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Trending Horror[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/movies/trending/?genres=horror</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</plugin>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Best of Horror[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/bestofhorror.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Classic Horror[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Classic-Horror.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Slasher Films[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Slasher-Films.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Monster Movies[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Monsters.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Supernatural[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Supernatural.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Torture / Disturbia[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Disturbing.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Japanese / Korean Horror[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Japanese-and-Korean-Horror.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Horror Comedy[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/HorrorComedy.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Family Frights[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Family-Frights.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Movies To Make You Pick Up And Move[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Movies-To-Make-You-Pick-Up-And-Move.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Movies To Make You Cancel That Vacation[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Movies-To-Make-You-Cancel-That-Vacation.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Movies To Make You Reconsider Parenthood[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Movies-To-Make-You-Reconsider-Parenthood.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Movies To Make You Rethink Your Survival Plan[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/purplehat/raw/master/Movies-To-Make-You-Rethink-Your-Survival-Plan.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_purplehat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>

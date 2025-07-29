@@ -1,0 +1,64 @@
+<dir>
+	<title>[COLORmediumturquoise]Movies[/COLOR]</title>
+	<link>http://elekta.info/affliction/moviesC.xml</link>
+	<thumbnail>http://elekta.info/affliction/movies.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>	
+<dir>
+	<title>[COLORmediumturquoise]TV Shows[/COLOR]</title>
+	<link>http://elekta.info/affliction2/shows.xml</link>
+	<thumbnail>http://elekta.info/affliction/shows.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLORaquamarine]Doc[/COLOR][COLORaquamarine]um[COLORaquamarine]ent[/COLOR]ar[COLORaquamarine]ies[/COLOR]</title>
+	<link>http://elekta.info/affliction2/docs3.xml</link>
+	<thumbnail>http://elekta.info/affliction/docs.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[COLORcrimson]T[/COLOR][COLORivory]oons[/COLOR] [COLORcrimson]/[/COLOR] [COLORcrimson]A[/COLOR][COLORivory]nime[/COLOR]</title>
+	<link>http://elekta.info/affliction/toonsC.xml</link>
+	<thumbnail>http://elekta.info/affliction2/toons.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[COLORmediumturquoise]Kids / [COLORivory]Family[/COLOR]</title>
+	<link>http://elekta.info/affliction/kids2.xml</link>
+	<thumbnail>http://elekta.info/affliction/family.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>	
+
+<dir>
+	<title>[COLORcrimson]M[/COLOR][COLORcrimson]usic[/COLOR] [COLORcrimson]/[/COLOR] [COLORivory]A[/COLOR][COLORivory]mbient[/COLOR]</title>
+	<link>http://elekta.info/affliction/musicC.xml</link>
+	<thumbnail>http://elekta.info/affliction/music.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>
+
+<plugin>
+	<name>[COLORlightseagreen]P[/COLOR][COLORivory]air[/COLOR] [COLORlightseagreen]/[/COLOR] [COLORlightseagreen]A[/COLOR][COLORivory]u[/COLOR][COLORlightseagreen]th[/COLOR][COLORivory]or[/COLOR][COLORlightseagreen]ize[/COLOR]</name>
+	<link>plugin://script.EleKtaPair/?action=RunAddon</link>
+	<thumbnail>http://elekta.info/affliction/auth.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+	<summary>Pair your device with sites such as Openload, plus Authorize Real Debrid/Trakt.</summary>
+</plugin>
+
+<plugin>
+	<title>[COLORaquamarine]Settings[/COLOR]</title>
+	<meta>
+		<summary>Open the Settings for this addon.</summary>
+	</meta>
+	<mysettings>0/0</mysettings>
+	<thumbnail>http://elekta.info/affliction/settings8d.png</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</plugin>
+
+<dir>
+	<title>[COLORivory]Search[/COLOR][COLORturquoise] ›[/COLOR]</title>
+	<tmdb>search</tmdb>
+	<thumbnail>special://home/addons/plugin.video.affliction/images/search3.gif</thumbnail>
+	<fanart>http://elekta.info/affliction/fanart.jpg</fanart>
+</dir>
