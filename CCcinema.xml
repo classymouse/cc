@@ -4,7 +4,6 @@
 <plugin>
     <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Latest Releases[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
     <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/lists/5308818/items/movies/asc</link>
-    <!-- <link>plugin://plugin.video.thecrew/?action=movies&url=https://www.trakt.tv/users/garycrawfordgc/lists/latest-releases</link> -->
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_orangehat.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.jpg</fanart>
 </plugin>
