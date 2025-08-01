@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>fuckOFF</layoutype>
 <plugin>
     <title>[COLOR orchid]¤ [/COLOR] [B][COLOR white]Latest Releases[/COLOR][/B] [COLOR orchid] ¤[/COLOR]</title>
     <link>plugin://plugin.video.thecrew/?action=movies&url=https://api.trakt.tv/lists/5308818/items/movies/asc</link>
